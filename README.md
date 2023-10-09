@@ -44,6 +44,4 @@ If one is able to identify these risky loan applicants, then such loans can be r
 
 
 ## Contact
-Created by [VISHNUCVINOD@githubusername] - feel free to contact me!
-
-
+Created by [vishnucvinod@gmail.com] - feel free to contact me!
